@@ -10,3 +10,6 @@ Go north, go north. Attack and kill troll. Loot corpse.
 Go south, go west. Unlock chest. Open chest. Loot chest. 
 
 Examine statue. Done.
+
+If you like to take things slow, type 'help' after you've 
+entered the game.
