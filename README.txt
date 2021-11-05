@@ -1,6 +1,7 @@
 How to speed run the game: 
 
-Attack and kill the goblin, loot the corpse. Light torch.
+Attack and kill the goblin, loot the corpse and wield the
+sword. Light the torch.
 Go east and attack and kill the skeleton, loot the corpse.
 Unequip sword, equip axe, equip helmet, equip chestplate.
 Go west, go south, sell sword. Buy potion * 3, consume
